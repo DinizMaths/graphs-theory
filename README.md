@@ -1,1 +1,1 @@
-# graphs-theory
+# Graphs Theory
